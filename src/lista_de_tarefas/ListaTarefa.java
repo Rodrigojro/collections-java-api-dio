@@ -32,4 +32,10 @@ public class ListaTarefa {
     public void obterDescricoesTarefas() {
         System.out.println(tarefaList);
     }
+
+
+    public static void main(String[] args) {
+        ListaTarefa listaTarefa = new ListaTarefa();
+
+    }
 }
